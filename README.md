@@ -26,7 +26,7 @@ Three finger tap | Middle mouse button
 Two finger swipe | Horizontal/Vertical scrolling
 Everything else  | Disabled (no button areas, no edge scrolling, no tap and drag, etc.)
 
-You will also get ```syndaemon``` with a sane configuration:
+You will also get ```syndaemon``` with this insane configuration:
 
 ```bash
 syndaemon -d -t -k -i 1 -m 100
